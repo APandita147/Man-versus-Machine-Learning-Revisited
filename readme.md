@@ -1,4 +1,4 @@
-# Man Versus Machine Learning Revisited
+# Man versus Machine Learning Revisited
 
 This repository contains the replication data and code for the paper "Man versus Machine Learning Revisited" by Yingguang Zhang, Yandi Zhu, and Juhani T. Linnainmaa. For more details, please refer to our [manuscript](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4899584). For any inquiries, please contact Yandi Zhu at [yandi.zhu@cufe.edu.cn](mailto:yandi.zhu@cufe.edu.cn).
 
@@ -9,9 +9,11 @@ If you use the data, please cite our paper:
 @article{ZhangZhuLinnainmaa2025RFS,
   title={Man versus Machine Learning Revisited},
   author={Zhang, Yingguang and Zhu, Yandi and Linnainmaa, Juhani T.},
-  journal={Review of Financial Studies},
-  year={2025},
-  pages={Forthcoming},
+  journal={The Review of Financial Studies},
+  volume={38},
+  number={12},
+  pages={3768--3790},
+  year={2025}
 }
 ```
 
